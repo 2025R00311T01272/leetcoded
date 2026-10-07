@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/2025R00311T01272/leetcoded/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
