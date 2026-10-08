@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/2025R00311T01272/leetcoded/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Matrix
 |  |
@@ -40,8 +41,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
