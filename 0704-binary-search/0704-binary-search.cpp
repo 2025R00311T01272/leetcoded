@@ -4,7 +4,6 @@ public:
         int n=nums.size();
         int low=0;
         int high=n-1;
-        int x=-1;
         while(low<=high){
             int mid=(low+high)/2;
             if(nums[mid]>target){
@@ -16,6 +15,6 @@ public:
             else if(nums[mid]==target)
                 return mid;
             }
-        return x;
+        return -1;
     }
 };
