@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/2025R00311T01272/leetcoded/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2025R00311T01272/leetcoded/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/2025R00311T01272/leetcoded/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Matrix
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/2025R00311T01272/leetcoded/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2025R00311T01272/leetcoded/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2025R00311T01272/leetcoded/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
