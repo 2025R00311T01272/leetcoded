@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/2025R00311T01272/leetcoded/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2025R00311T01272/leetcoded/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/2025R00311T01272/leetcoded/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/2025R00311T01272/leetcoded/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2025R00311T01272/leetcoded/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
