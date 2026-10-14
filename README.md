@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/2025R00311T01272/leetcoded/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0033-search-in-rotated-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/2025R00311T01272/leetcoded/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/2025R00311T01272/leetcoded/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0540-single-element-in-a-sorted-array) |
