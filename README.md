@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/2025R00311T01272/leetcoded/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/2025R00311T01272/leetcoded/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2025R00311T01272/leetcoded/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/2025R00311T01272/leetcoded/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/2025R00311T01272/leetcoded/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/2025R00311T01272/leetcoded/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/2025R00311T01272/leetcoded/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/2025R00311T01272/leetcoded/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
