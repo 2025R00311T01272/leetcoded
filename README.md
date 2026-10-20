@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/2025R00311T01272/leetcoded/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/2025R00311T01272/leetcoded/tree/master/0242-valid-anagram) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/2025R00311T01272/leetcoded/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/2025R00311T01272/leetcoded/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/2025R00311T01272/leetcoded/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/2025R00311T01272/leetcoded/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/2025R00311T01272/leetcoded/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
