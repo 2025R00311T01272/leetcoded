@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/2025R00311T01272/leetcoded/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/2025R00311T01272/leetcoded/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/2025R00311T01272/leetcoded/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/2025R00311T01272/leetcoded/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/2025R00311T01272/leetcoded/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/2025R00311T01272/leetcoded/tree/master/0441-arranging-coins) |
 ## Newton's Method
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2025R00311T01272/leetcoded/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2025R00311T01272/leetcoded/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/2025R00311T01272/leetcoded/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/2025R00311T01272/leetcoded/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/2025R00311T01272/leetcoded/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/2025R00311T01272/leetcoded/tree/master/0242-valid-anagram) |
