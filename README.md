@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/2025R00311T01272/leetcoded/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/2025R00311T01272/leetcoded/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/2025R00311T01272/leetcoded/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/2025R00311T01272/leetcoded/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/2025R00311T01272/leetcoded/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/2025R00311T01272/leetcoded/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/2025R00311T01272/leetcoded/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025R00311T01272/leetcoded/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/2025R00311T01272/leetcoded/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/2025R00311T01272/leetcoded/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2025R00311T01272/leetcoded/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/2025R00311T01272/leetcoded/tree/master/0704-binary-search) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2025R00311T01272/leetcoded/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/2025R00311T01272/leetcoded/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
